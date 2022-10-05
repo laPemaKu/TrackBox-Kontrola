@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\bin\Debug\TrackBar Kontrola.exe.config
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\bin\Debug\TrackBar Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\bin\Debug\TrackBar Kontrola.pdb
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar_Kontrola.Form1.resources
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar_Kontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\TrackBar Kontrola\obj\Debug\TrackBar Kontrola.pdb
